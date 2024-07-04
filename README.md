@@ -29,3 +29,14 @@ Lab 4: Signal Impairments and Channel Estimation
 
 Characterizing the impairments of phase noise and fading, and how to estimate the channel
 response that includes both impairments using a PN sequence.
+
+## Contrabutions
+
+My role:
+- Run all the simulations w/ the SDRs
+
+My collaborators: 
+- Set up the GNUradio Environment on Oracle VM
+
+Both:
+- Write-up included in the PDF 
