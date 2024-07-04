@@ -35,7 +35,7 @@ response that includes both impairments using a PN sequence.
 My role:
 - Run all the simulations w/ the SDRs
 
-My collaborators: 
+My collaborators: [Uriberto Lopez] urlopez@ucsd.edu
 - Set up the GNUradio Environment on Oracle VM
 
 Both:
